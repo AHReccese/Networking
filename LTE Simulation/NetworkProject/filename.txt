@@ -1,0 +1,4 @@
+Thank you, your method worked for me when none other did.
+I had a non-encoded byte array that I needed turned into a string.
+I Was trying to find a way to re-encode it so I could decode it into a string.
+This method works perfectly!
